@@ -1,0 +1,28 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk2683/Twitter-Bot.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Bot",
+    "Node.js",
+    "Javascript"
+  ],
+  "author": "Mohit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mk2683/Twitter-Bot/issues"
+  },
+  "homepage": "https://github.com/mk2683/Twitter-Bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
